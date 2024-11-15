@@ -1,0 +1,42 @@
+{
+    "entry1": {
+        "entryName": "entry1",
+        "goalEntry": "Testing1",
+        "firstName": "Newton",
+        "studentMentor": "Henk",
+        "studentClass": "Artemis13",
+        "isApproved": "pending",
+        "isCompleted": "false",
+        "selectedDate": "12\/11\/2024"
+    },
+    "entry2": {
+        "entryName": "entry2",
+        "goalEntry": "World domination",
+        "firstName": "Sorry_LABA",
+        "studentMentor": "Paul",
+        "studentClass": "Artemis13",
+        "isApproved": "true",
+        "isCompleted": "false",
+        "selectedDate": "2024-11-13"
+    },
+    "entry3": {
+        "entryName": "entry3",
+        "goalEntry": "vjklgo;",
+        "firstName": "Kaan",
+        "studentMentor": "Henk",
+        "studentClass": "Artemis13",
+        "isApproved": "pending",
+        "isCompleted": "false",
+        "selectedDate": "2024-11-11"
+    },
+    "entry4": {
+        "entryName": "entry4",
+        "goalEntry": "Researching gravity.",
+        "firstName": "Einstein",
+        "studentMentor": "Rob",
+        "studentClass": "Artemis13",
+        "isApproved": "true",
+        "isCompleted": "false",
+        "selectedDate": "1945-07-06"
+    }
+}
